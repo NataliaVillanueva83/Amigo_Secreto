@@ -13,7 +13,7 @@ un "amigo secreto". Es ideal para organizar intercambios de regalos de manera di
 
 ## 🚀 Cómo Usarlo  
 1. Clona este repositorio:  
-git clone https://github.com/NataliaVillanueva83/Amigo-secreto.git
+git clone [https://github.com/NataliaVillanueva83/Amigo-secreto.git](https://github.com/NataliaVillanueva83/Amigo_Secreto.git)
 2. Abre el archivo index.html en tu navegador.
 3.Ingresa los nombres de los participantes en el campo de entrada y agrégalos con el botón "Añadir".
 4. Una vez agregados todos los amigos, haz clic en "Sortear amigo".
@@ -22,7 +22,7 @@ git clone https://github.com/NataliaVillanueva83/Amigo-secreto.git
 ##📚 Ayuda y Soporte
 Si tienes preguntas, errores o sugerencias, puedes:
 📌 Abrir un issue en el repositorio: Issues
-📌 Contactarnos a través de nuestro correo: tucorreo@ejemplo.com
+📌 Contactarnos a través de nuestro correo: nataliavillanueva83@gmail.com
 
 ##👥 Autores
 Natalia Villanueva - Desarrollador
